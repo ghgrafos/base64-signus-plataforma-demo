@@ -1,0 +1,16 @@
+{
+    "name": "gilmar/portifolio",
+    "description": "criando portifolio web",
+    "type": "project",
+    "require": {
+        "sendgrid/sendgrid": "^7.3"
+    },
+    "license": "apache-2.0",
+    "authors": [
+        {
+            "name": "Gilmar Pimenta",
+            "email": "grafos@outlook.com.br"
+        }
+    ],
+    "minimum-stability": "stable"
+}
