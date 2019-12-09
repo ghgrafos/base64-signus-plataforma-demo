@@ -6,8 +6,9 @@
 <title>Signus | Benvindos!</title>
     <?php
         echo $this->Html->css([
-          '/css/foundation',
-          '/css/style'
+          '/css/foundation.css',
+          '/css/style',
+          '/css/foundation/foundation-icons.css'
         	]);
     ?>
 </head>

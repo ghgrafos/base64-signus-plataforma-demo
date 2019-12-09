@@ -49,8 +49,10 @@
 		</div>
 		
         <?php echo $this->fetch('content');?>
-
-		<footer class="text-center">Signus plataforma</footer>
+		<div>
+		<hr>
+		</div>
+		<footer class="text-center"><h2>Signus plataforma</h2></footer>
 
 		<script src="/libs/jquery/dist/jquery.min.js"></script>
 		<script src="/libs/bootstrap/dist/js/bootstrap.min.js"></script>
